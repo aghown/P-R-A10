@@ -1,11 +1,27 @@
-# P-R-A10
+# Meu Site Antigo
+Este é um site básico em HTML, semelhante aos antigos sites da web. Foi criado como um exemplo simples para responder ao P&R da Aula Trabalhando com GitHub.
 
-Título da Prática: Criação e Gerenciamento de um Repositório no GitHub
+![Exemplo de Imagem](img/Captura de tela 2024-06-02 182938.png)
 
-Objetivos: Aprender a usar o sistema de versionamento GitHub para criar um repositório e gerenciar suas versões.
+### Conteúdo
+Sobre o Site: Breve descrição do propósito e conteúdo do site.
+Atividade Prática: Detalhes sobre a atividade prática realizada para criar o site.
+Imagem Exemplo: Exemplo de como adicionar uma imagem ao projeto.
+Contato: Informações de contato.
+### Acessibilidade
+O site inclui um sistema de acessibilidade. Pressione Control-F11 para ajustar o site para deficientes visuais que usam leitores de tela; Pressione Control-F10 para abrir um menu de acessibilidade.
 
-Materiais, Métodos e Ferramentas: Pesquisa na internet, conta no GitHub e conhecimento básico dos comandos Git.
+### Estrutura do Site
+Header: Cabeçalho do site com o título.
+Nav: Barra de navegação com links para diferentes partes do site.
+Main: Conteúdo principal do site.
+Footer: Rodapé do site com informações de copyright.
+Como Visualizar o Site
+Para visualizar o site, basta abrir o arquivo index.html em um navegador web.
 
-Descrição da Atividade:
+### Atividade Prática
+Este site foi criado como parte de uma atividade prática da faculdade. O objetivo da atividade era desenvolver um site simples em HTML, demonstrando conhecimentos básicos de design e estruturação de páginas web.
 
-Nesta atividade, você irá praticar o uso do Git, um sistema de controle de versão distribuído, e do GitHub, uma plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem juntos em projetos de qualquer lugar.
+### Instruções para a Entrega
+Submissão Inicial: Publique o link do seu repositório GitHub contendo o projeto inicial.
+Submissão Final: Após adicionar funcionalidades e imagens, faça um novo push para o repositório.
