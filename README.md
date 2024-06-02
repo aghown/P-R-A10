@@ -1,7 +1,9 @@
 # Meu Site Antigo
 Este é um site básico em HTML, semelhante aos antigos sites da web. Foi criado como um exemplo simples para responder ao P&R da Aula Trabalhando com GitHub.
 
-![Exemplo de Imagem](img/cap.png)
+<div align="center">
+<img src="https://github.com/aghown/Tela_De_LoginSD/blob/main/Tela_de_Login.PNG" width="600px" />
+</div>
 
 ### Conteúdo
 Sobre o Site: Breve descrição do propósito e conteúdo do site.
