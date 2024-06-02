@@ -1,7 +1,7 @@
 # Meu Site Antigo
 Este é um site básico em HTML, semelhante aos antigos sites da web. Foi criado como um exemplo simples para responder ao P&R da Aula Trabalhando com GitHub.
 
-![Exemplo de Imagem](img/Captura de tela 2024-06-02 182938.png)
+![Exemplo de Imagem](img/cap.png)
 
 ### Conteúdo
 Sobre o Site: Breve descrição do propósito e conteúdo do site.
