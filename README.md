@@ -2,7 +2,7 @@
 Este é um site básico em HTML, semelhante aos antigos sites da web. Foi criado como um exemplo simples para responder ao P&R da Aula Trabalhando com GitHub.
 
 <div align="center">
-<img src="https://github.com/aghown/Tela_De_LoginSD/blob/main/Tela_de_Login.PNG" width="600px" />
+<img src="https://github.com/aghown/P-R-A10/blob/main/P%26R%20Git%20A10/img/cap.png" width="600px" />
 </div>
 
 ### Conteúdo
